@@ -4,3 +4,5 @@ print(type(True))
 print(type({}))
 print(type([]))
 print(type(1.9))
+
+dir()
